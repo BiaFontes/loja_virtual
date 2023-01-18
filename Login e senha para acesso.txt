@@ -1,0 +1,7 @@
+Administrador
+Login: andrejr
+Senha: andrejr123
+
+Usuário
+Login: biaemi
+Senha: biaemi123
